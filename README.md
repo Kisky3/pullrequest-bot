@@ -56,7 +56,7 @@ https://api.slack.com/methods
 
 template.yml と buildspec.yml を参考にしてください。
 
-※ events の中身は省略する
+※ events の中身は下記のようで、ここには UP しません。
 
 - approved.json
 - change_request.json
@@ -64,3 +64,5 @@ template.yml と buildspec.yml を参考にしてください。
 - opened.json
 - ready_for_review.json
 - review_request.json
+
+※ AWS の LICENSE も必要なので、ここには UP しません。
