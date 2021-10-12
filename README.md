@@ -6,6 +6,12 @@ GitHub の PullRequest に関する変更を Slack へ通知します。
 - PullRequest にレビュワーが追加された時
 - PullRequest にレビュワーが Comment/Request Change/Approve を submit した時
 
+## イメージ
+<img width="762" alt="スクリーンショット 2021-10-12 12 16 52" src="https://user-images.githubusercontent.com/23165804/136885646-2205c4bc-ea71-4bb2-8db0-697acce51dd0.png">
+
+<img width="694" alt="スクリーンショット 2021-10-12 12 19 50" src="https://user-images.githubusercontent.com/23165804/136885809-a8adc880-9686-4a3c-94ea-40a0d0c34f2f.png">
+
+
 ## ローカル環境構築
 
 homebrew で aws-sam-cli を追加します。
