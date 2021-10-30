@@ -1,9 +1,9 @@
 ## 目的
 
-GitHub の PullRequest に関する変更を Slack へ通知します。
-通知タイミングは以下の通りです。
+GitHub PullRequest Bot Connected with Slack。
+Notification timing:
 
-- PullRequest にレビュワーが追加された時
+- PullRequest reviewers were added.
 - PullRequest にレビュワーが Comment/Request Change/Approve を submit した時
 
 ## イメージ
